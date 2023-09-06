@@ -1,3 +1,3 @@
 backend/* text eol=lf
 frontend/* text eol=lf
-nginx /* text eol=lf
+nginx/* text eol=lf
