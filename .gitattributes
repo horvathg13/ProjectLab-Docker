@@ -1,0 +1,4 @@
+/backend/laravel/* text eol=lf
+/backend/mysql/* text eol=lf
+/frontend/* text eol=lf
+/nginx/* text eol=lf
