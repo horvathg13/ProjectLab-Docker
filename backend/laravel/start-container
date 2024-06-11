@@ -16,6 +16,6 @@ else
     echo "teszt"
     cd  /app/ProjectLab-Laravel
     composer install
-    php artisan migrate:fresh --seed
+    php artisan migrate --seed
     exec /usr/bin/supervisord -c /etc/supervisor/conf.d/supervisord.conf
 fi
